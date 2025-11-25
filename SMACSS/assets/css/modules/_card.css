@@ -1,0 +1,27 @@
+.m-card {
+width: 320px;
+background: white;
+border-radius: 8px;
+margin: 24px auto;
+box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+
+.m-card__header,
+.m-card__body,
+.m-card__footer {
+padding: 16px;
+}
+
+
+.m-card__header {
+background: gray;
+border-bottom: 1px solid #ddd;
+}
+
+
+.m-card__title {
+color: white;
+font-size: 18px;
+margin: 0;
+}

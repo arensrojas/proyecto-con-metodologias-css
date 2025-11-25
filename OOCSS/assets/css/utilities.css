@@ -1,0 +1,9 @@
+.margin-right { margin-right: 16px; }
+.margin-bottom { margin-bottom: 15px; }
+.margin-y { margin: 20px 0; }
+.padding-sm { padding: 8px 16px; }
+.padding-md { padding: 15px; }
+.border-sm { border: 1px solid #ddd; }
+.border-b { border-bottom: 1px solid #ddd; }
+.rounded-sm { border-radius: 4px; }
+.btn { cursor: pointer; display: inline-block; }

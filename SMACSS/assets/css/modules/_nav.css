@@ -1,0 +1,14 @@
+.m-nav-item {}
+
+
+.m-nav-link {
+color: white;
+padding: 8px 16px;
+display: inline-block;
+}
+
+
+.m-nav-item--featured .m-nav-link {
+border: 1px solid #ccc;
+border-radius: 4px;
+}

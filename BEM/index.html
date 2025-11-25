@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BEM</title>
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+  </head>
+  <body>
+    <nav class="nav">
+      <ul class="nav__menu">
+        <li class="nav__item">
+          <a class="nav__link nav__link--active">Inicio</a>
+        </li>
+        <li class="nav__item">
+          <a class="nav__link">Sobre nosotros</a>
+        </li>
+        <li class="nav__item nav__item--featured">
+          <a class="nav__link">Contacto</a>
+        </li>
+        <li class="nav__item">
+          <button class="button button--primary">Ver mi perfil</button>
+        </li>
+      </ul>
+    </nav>
+
+    <article class="card">
+      <header class="card__header">
+        <h2 class="card__title">Titulo de la tarjeta</h2>
+      </header>
+      <div class="card__body">
+        <p class="card__text">Contenido de la Tarjeta</p>
+      </div>
+      <footer class="card__footer">
+        <button class="button button--primary">Ver más</button>
+        <button class="button button--warning">Bloquear</button>
+      </footer>
+    </article>
+  </body>
+</html>

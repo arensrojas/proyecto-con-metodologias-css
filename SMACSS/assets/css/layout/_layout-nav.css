@@ -1,0 +1,12 @@
+.l-nav {
+background: #1e1e1e;
+padding: 16px;
+}
+
+
+.l-nav-menu {
+display: flex;
+list-style: none;
+gap: 16px;
+align-items: center;
+}
