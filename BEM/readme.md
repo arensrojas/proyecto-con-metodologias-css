@@ -20,3 +20,5 @@ Es ideal para mantener proyectos escalables, legibles y reutilizables.
 
 ## Lección aprendida
 BEM ayuda a escribir CSS más ordenado, modular y mantenible sin depender de frameworks.
+
+url proyecto: https://github.com/arensrojas/proyecto-con-metodologias-css
